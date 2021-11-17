@@ -1,4 +1,4 @@
-# Projetos-de-Logica---Com-Portugol
+# Projetos-de-Logica-Com-Portugol
 Exercicios de Logica
 
 Com base no livro: 
