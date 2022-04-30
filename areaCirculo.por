@@ -12,6 +12,7 @@ programa
 	funcao inicio()
 	{
 		real A = 0.1
+
 		real R
 
 		leia(R)
